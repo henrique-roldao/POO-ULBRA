@@ -31,14 +31,12 @@
 	:construction: Construindo :construction:
 </h4>
 <br>
-<br>
 
 ---
 
 ## 💻 Sobre o projeto
 
 :computer: Projeto no qual estarei atualizando com o decorrer da faculdade de Análise e Desenvolvimento de Sistemas na ULBRA Torres. Vamos focar em POO usando do C#.
-<br>
 <br>
 
 ---
@@ -51,7 +49,6 @@
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
-<br>
 <br>
 
 ---
