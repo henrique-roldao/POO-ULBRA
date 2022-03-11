@@ -4,10 +4,6 @@
      :computer: Repositório voltado a cadeira de Programação Orientada a Objetos, ULBRA 2022/1
 </h1>
 
-<h3 align="center">
-    Site feito com Codeigniter com área do cliente e área administrativa 🚀
-</h3>
-
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/henrique-roldao/POO-ULBRA?color=%2304D361">
 
