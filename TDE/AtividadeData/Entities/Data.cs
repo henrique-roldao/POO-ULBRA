@@ -7,8 +7,12 @@ namespace AtividadeData.Entities
         private int month;
         private int year;
 
+        public Data(int year, int month, int day) {
+            setYear(year);
+            setMonth(month);
+            setDay(day);
+        }
         public int getDay() {return this.day;}
-
         public void setDay(int day) {
             if (day <= 0) {
                 MessageErro(day, "dia");
@@ -18,9 +22,7 @@ namespace AtividadeData.Entities
                 this.day = day;
             }
         }
-
         public int getMonth() {return this.month;}
-
         public void setMonth(int month) {
             if(month > 0 && month <= 12) {
                 this.month = month;
