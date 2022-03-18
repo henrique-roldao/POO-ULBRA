@@ -7,7 +7,7 @@ namespace AtividadeTriangulo.Entities
         decimal altura;
         decimal baseTriangulo;
         decimal area;
-
+        
         public Triangulo(decimal altura, decimal baseTriangulo)
         {
             this.altura = altura;

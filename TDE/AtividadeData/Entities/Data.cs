@@ -14,6 +14,7 @@ namespace AtividadeData.Entities
         }
         public int getDay() {return this.day;}
         public void setDay(int day) {
+
             if (day <= 0) {
                 MessageErro(day, "dia");
             } if(getMonth() == 2 && day > 28) {
@@ -32,14 +33,16 @@ namespace AtividadeData.Entities
         }
         public int getYear() {return this.year;}
         public void setYear(int year) {
-            if(year > 0) {
-                this.year = year;
-            } else {
-                MessageErro(year, "ano");
-            }   
+                 if(year > 0) {
+                    this.year = year;
+                } else {
+                    MessageErro(year, "ano");
+                }  
         }
         private void MessageErro(int data, String type) {
-            Console.WriteLine(data + " é um " + type + " inválido!");
+            Console.WriteLine(Convert.ToString(data + " é um " + type + " inválido!"));
         }
     }
 }
+
+    //throw new ArgumentException(paramName: nameof(this.year), message: "teste");

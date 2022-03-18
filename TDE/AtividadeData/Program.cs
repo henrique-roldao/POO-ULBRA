@@ -13,9 +13,12 @@ namespace AtividadeData
     {
         static void Main(string[] args)
         {
-            Data data = new Data(2022, 02, 30);
+            Data data = new Data(0, 12, 2);
 
             Console.WriteLine(data.getDay() + "/" + data.getMonth() + "/" + data.getYear());
+
+            //DateTime data1 = new DateTime(2022,2,30);
+            //Console.WriteLine(data1.Day + "/" + data1.Month + "/" + data1.Year);
         }
     }
 }
