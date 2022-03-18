@@ -11,6 +11,7 @@ namespace AtividadeData.Entities
             setYear(year);
             setMonth(month);
             setDay(day);
+            imprimirData();
         }
         public int getDay() {return this.day;}
         public void setDay(int day) {
@@ -41,6 +42,16 @@ namespace AtividadeData.Entities
         }
         private void MessageErro(int data, String type) {
             Console.WriteLine(Convert.ToString(data + " é um " + type + " inválido!"));
+        }
+
+        private void imprimirData() {
+            try {
+                if (getDay() != 0 && getMonth() != 0 && getYear() != 0) {
+                    Console.WriteLine(getDay() + "/" + getMonth() + "/" + getYear());
+                }
+            } catch (ArgumentException e) {
+                Console.WriteLine(e.Message);
+            }
         }
     }
 }
