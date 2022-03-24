@@ -57,7 +57,7 @@
  <sub><b>Henrique Roldão</b></sub></a> <a href="https://github.com/henrique-roldao" title="Henrique Roldão">🚀</a>
  <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@rique_roldao-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rique_roldao)](https://twitter.com/rique_roldao) [![Linkedin Badge](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-rold%C3%A3o-2795191a2/)](https://www.linkedin.com/in/henrique-rold%C3%A3o-2795191a2/) 
+[![Twitter Badge](https://img.shields.io/badge/-@rique_roldao-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rique_roldao)](https://twitter.com/rique_roldao) [![Linkedin Badge](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-roldao/)](https://www.linkedin.com/in/henrique-roldao/) 
 [![Gmail Badge](https://img.shields.io/badge/-henriqueroldao@rede.ulbra.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henriqueroldao@rede.ulbra.br)](mailto:henriqueroldao@rede.ulbra.br)
 
 ---
@@ -66,5 +66,5 @@
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Henrique Roldão 👋 [Entre em contato!](https://www.linkedin.com/in/henrique-rold%C3%A3o-2795191a2/)
+Feito com ❤️ por Henrique Roldão 👋 [Entre em contato!](https://www.linkedin.com/in/https://www.linkedin.com/in/henrique-roldao/)
 
