@@ -16,9 +16,9 @@ namespace AtividadeData.Entities
         public int getDay() {return this.day;}
         public void setDay(int day) {
 
-            if (day <= 0) {
+            if (day <= 0 || day > 31) {
                 MessageErro(day, "dia");
-            } if(getMonth() == 2 && day > 28) {
+            }else if(getMonth() == 2 && day > 28) {
                 MessageErro(day, "dia");
             } else {
                 this.day = day;

@@ -13,8 +13,9 @@ namespace AtividadeData
     {
         static void Main(string[] args)
         {
-            Data data = new Data(2022, 12, 30);
-        
+            
+            Data data = new Data(2022, 2, 28);
+
         }
     }
 }
